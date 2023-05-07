@@ -19,7 +19,6 @@ function addplayer(player)
 			while character.Parent do
 				task.wait()
 			end
-			print(player.DisplayName)
 		end
 	end)
 end
