@@ -1,7 +1,7 @@
 --[[
 Made by Rouxhaver
 Netlibary made by 4eyes
-Currently works with Celery executor
+Currently works with Celery executor and Fluxus
 
 Note: Hat network ownership has been weird recently so expect a few resets
 ]]
