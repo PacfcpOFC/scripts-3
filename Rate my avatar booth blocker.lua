@@ -2,6 +2,7 @@
 Made by Rouxhaver
 click on a booth to block its text
 press space to stop blocking
+game: https://www.roblox.com/games/6708206173/Rate-My-Avatar
 ]]
 if game:GetService("ReplicatedStorage"):FindFirstChild("RequestRespawn") then
 	game:GetService("ReplicatedStorage").RequestRespawn:Destroy()
