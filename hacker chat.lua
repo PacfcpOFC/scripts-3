@@ -1,6 +1,7 @@
 --[[
 Made by Rouxhaver
 When two people execute the script they can use the text box to chat with each other privately and uncensored
+Note: only works on the newer bubble chat and not the old one and long messages get tagged
 ]]
 
 a = "的"
