@@ -7,7 +7,7 @@ https://www.roblox.com/catalog/301818806/Serenas-Hair
 https://www.roblox.com/catalog/62724852/Chestnut-Bun
 https://www.roblox.com/catalog/617605556/Medieval-Hood-of-Mystery
 
-paid version coming soon owo
+because of recent news the paid version of this script will be delayed
 ]]
 lp = game:GetService("Players").LocalPlayer
 char = lp.Character
