@@ -28,8 +28,10 @@ if lp.Name == giver then
 	lp.Character = char
 	wait(players.RespawnTime+.5)
 	char.Humanoid.Health = 0
-    wait(.1)
-	char:WaitForChild("Airvolter LeftAccessory").Handle.CFrame = workspace:WaitForChild(holder).Head.CFrame
+    	for i = 10, 0, -1 do
+	    wait(.1)
+	    char:WaitForChild("Airvolter LeftAccessory").Handle.CFrame = workspace:WaitForChild(holder).Head.CFrame
+   	end
 end
 
 if lp.Name == holder then
