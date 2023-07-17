@@ -31,6 +31,7 @@ if lp.Name == giver then
     	for i = 10, 0, -1 do
 	    wait(.1)
 	    char:WaitForChild("Airvolter LeftAccessory").Handle.CFrame = workspace:WaitForChild(holder).Head.CFrame
+	    char:WaitForChild("Airvolter LeftAccessory").Handle.Velocity = Vector3.new(0,0,0)
    	end
 end
 
