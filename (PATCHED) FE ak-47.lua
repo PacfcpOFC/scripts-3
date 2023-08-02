@@ -1,18 +1,7 @@
 --[[
 Made by Rouxhaver
-Instructions:
-1. do the steps in this video to get two UWP clients: https://www.youtube.com/watch?v=dh_ejKCalvk
-2. download and run electron from here: https://ryos.lol/
-3. buy and equip this accessory for 100 robux: https://www.roblox.com/catalog/13760686814/Classic-MARKA-17M-Valkan-Left
-4. paste this script into electron and change "Username1" to the USERNAME of the account with the gun (Example: "Imao_96sbrother") and change "Username2" to your alt-account on the other client
-5. execute the script
-6. if this works your alt-account should get a gun gear that sadly does not shoot anything, if the gun disappears then rejoin on both clients and try running the script again and/or press F9 to check for errors
 
-Notes:
-Only works in R6 for now.
-A video will come soon of me using the script.
-Because the setup is kinda aids so I cant be bothered to make the gun shoot.
-It usually takes a few executions for the script to work.
+Roblox has recently patched perma death meaning this script no longer works
 ]]
 giver = "Username1"
 holder = "Username2"
