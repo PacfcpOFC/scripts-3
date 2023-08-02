@@ -1,22 +1,7 @@
 --[[
 Made by Rouxhaver
 
-Cost: 231 robux
-Hats:
-https://www.roblox.com/catalog/13760686814/Classic-MARKA-17M-Valkan-Left
-https://www.roblox.com/catalog/13715529831/Melted-Noob-Head
-https://www.roblox.com/catalog/11449703382/Extra-Right-hand-moving-Blocky
-https://www.roblox.com/catalog/11449687315/Extra-Left-hand-moving-Blocky
-https://www.roblox.com/catalog/11420434130/Extra-Right-Hand-Moving
-https://www.roblox.com/catalog/11420427552/Extra-Left-Hand-moving
-https://www.roblox.com/catalog/4819740796/Robox
-
-player collsion and tool collison REQUIRED for shooting to work.
-script works fine without shooting if you don't have a tool.
-only works on R6 character type for now.
-It's recommended that you test the script (with hat givers) before you buy the hats.
-a free version might come if there is demand.
-press X to draw your weapon.
+Roblox has recently patched perma death meaning this script no longer works
 ]]
 players = game:GetService("Players")
 lp = players.LocalPlayer
