@@ -1,13 +1,7 @@
 --[[
 made by rouxhaver
 
-required hats:
-https://www.roblox.com/catalog/12651927768/Parrot-Fishface
-https://www.roblox.com/catalog/3033908130/International-Fedora-France
-https://www.roblox.com/catalog/3409612660/International-Fedora-USA
-https://www.roblox.com/catalog/3398308134/International-Fedora-Canada
-https://www.roblox.com/catalog/3438342658/International-Fedora-Argentina
-https://www.roblox.com/catalog/4819740796/Robox
+Roblox has recently patched perma death meaning this script no longer works
 ]]
 
 players = game:GetService("Players")
