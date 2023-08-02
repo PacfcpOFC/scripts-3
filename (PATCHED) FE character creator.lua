@@ -1,11 +1,7 @@
 --[[
 Made by Rouxhaver
 
-showcase: https://www.youtube.com/watch?v=KpjGbXuMbk8
-R and T to rotate,
-drag floor to change hip height,
-select body part on the right.
-
+Roblox has recently patched perma death meaning this script no longer works
 ]]
 
 player = game:GetService("Players").LocalPlayer
