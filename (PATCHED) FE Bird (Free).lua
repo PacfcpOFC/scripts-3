@@ -1,13 +1,7 @@
 --[[
 Made by rouxhaver
 
-Required Hats:
-https://www.roblox.com/catalog/2956239660/Belle-Of-Belfast-Long-Red-Hair
-https://www.roblox.com/catalog/301818806/Serenas-Hair
-https://www.roblox.com/catalog/62724852/Chestnut-Bun
-https://www.roblox.com/catalog/617605556/Medieval-Hood-of-Mystery
-
-because of recent news the paid version of this script will be delayed
+Roblox has recently patched perma death meaning this script no longer works
 ]]
 lp = game:GetService("Players").LocalPlayer
 char = lp.Character
